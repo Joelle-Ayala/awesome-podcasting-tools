@@ -54,6 +54,7 @@
 - **[Buffer](https://buffer.com/)** - Schedule social media posts to promote your podcast.
 - **[Aweber](https://www.aweber.com/)** - An email marketing platform for engaging your audience.
 - **[Linktree](https://linktr.ee/)** - Share all your podcast links in one place.
+- **[PodLink](https://podlink.ai)** - Podcast growth platform for independent podcasters: free bio-link page and OP3-powered analytics, plus AI show notes and transcripts.
 
 ## Analytics and Tracking
 
